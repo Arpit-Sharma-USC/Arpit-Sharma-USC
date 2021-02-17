@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Arpit's Github Stats](https://github-readme-stats.vercel.app/api?username=Arpit-Sharma-USC&show_icons=true&theme=merko)
 <!--
 **Arpit-Sharma-USC/Arpit-Sharma-USC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
